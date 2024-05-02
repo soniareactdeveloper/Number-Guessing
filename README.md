@@ -1,0 +1,1 @@
+This is a unique number guessing game built with JavaScript, HTML, and CSS. It pits two players (Player Two and Player Three) with three attempts each against Player One, who secretly thinks of a number. The players compete to guess the number correctly within their limited attempts.
